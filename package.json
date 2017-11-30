@@ -1,0 +1,28 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "Testing angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanValkov/Testing-Angular-2.git"
+  },
+  "keywords": [
+    "angular",
+    "2",
+    "application"
+  ],
+  "author": "Ivan Valkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanValkov/Testing-Angular-2/issues"
+  },
+  "homepage": "https://github.com/IvanValkov/Testing-Angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
